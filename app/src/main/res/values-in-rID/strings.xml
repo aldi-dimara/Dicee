@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button_text">Putar</string>
+    <string name="description_button">Putar Dadu</string>
+    <string name="image_logo_description">Image Logo</string>
+    <string name="left_dice_description">Left Dice</string>
+</resources>
